@@ -1,0 +1,146 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: white;
+}
+#main{
+    background-color: black;
+    
+
+}
+.main{
+    width: 100vw;
+    height:  400px;
+    background-color: black;
+color: white;
+font-size: 25px;
+font-family: 'Courier New', Courier, monospace;
+
+
+}
+.navbar{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center
+}
+.navbar i{
+    font-size: 80px;
+}
+
+.navbar ul {
+    display: flex;
+    
+
+}
+.navbar ul li{
+    list-style-type: none;
+    padding: 15px;
+}
+.container{
+    padding: 20px;
+    text-align: center;
+    
+}
+.container p{
+    padding-top: 25px;
+}
+
+.button {
+    display: flex; 
+    margin-left: 500px;
+    padding-top: 40px;
+} .button0 button{
+    padding: 25px;
+border-radius: 50px;
+border: 2px solid white;
+margin: 25px;
+font-size: 25px;
+}
+      
+    
+.experience{
+    background-color: aliceblue;
+    height: 600px;
+    width: 100vw;
+    font-size: 25px;
+
+}.table{
+    text-align: center;
+    padding: 25px;
+
+} .table button{
+    font-size: 25px;
+    padding: 25px;
+    border: 2px solid white;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    
+}
+.list{
+    margin-left: 400px;
+}
+   
+.list table tr th{
+    padding: 10px;
+
+} .list table tr td{
+    padding: 10px;
+    border-bottom: 2px solid gray;
+} 
+.plans{
+    width:  100vw;
+    height: 1000px;
+    background-color: white;
+}
+.plansList{
+    text-align: center;
+    padding: 25px;
+    font-size: 25px;
+}
+.card{
+    display: flex;
+    gap: 10px;
+    margin-left: 400px;
+    
+
+}.card0{
+    width: 300px;
+    height: 300px;
+    border: 3px solid gray;
+    padding: 30px;
+    font-size: 20px;
+}.text{
+    border-top: 3px solid gray;
+}.card0 button{
+    background-color: blue;
+}.view button{margin-top: 15px;
+    width: 300px;
+    height: 30px;
+    border: 2px solid black;
+    background-color: black;
+    border-radius: 50px;
+    color: white;
+
+    
+}
+
+
+    
+    
+    
+    
+
+
+
+
+
+    
+
+
+
+
+
